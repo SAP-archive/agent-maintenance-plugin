@@ -1,3 +1,9 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only because it has been moved. The repository is now maintained on [jenkinsci/agent-maintenance-plugin](https://github.com/jenkinsci/agent-maintenance-plugin).
+
+
 Agent Maintenance Plugin for Jenkins
 =========================
 
